@@ -1,4 +1,4 @@
-#include "bubble_bobbler.dtsi"
+#include "bubble-bobbler.dtsi"
 
 &kscan0 {
     col-gpios
