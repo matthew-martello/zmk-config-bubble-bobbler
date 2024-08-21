@@ -1,0 +1,6 @@
+config SHIELD_BUBBLE-BOBBLER_LEFT
+    def_bool $(shields_list_contains,bubble-bobbler_left)
+
+config SHIELD_BUBBLE-BOBBLER_RIGHT
+    def_bool $(shields_list_contains,bubble-bobbler_right)
+
